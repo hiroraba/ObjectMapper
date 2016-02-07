@@ -6,7 +6,7 @@ ObjectMapper
 
 ObjectMapper is a framework written in Swift that makes it easy for you to convert your Model objects (Classes and Structs) to and from JSON. 
 
-- [Features](#features)
+- [ほげ](#ほげ)
 - [The Basics](#the-basics)
 - [Mapping Nested Objects](#easy-mapping-of-nested-objects)
 - [Custom Transformations](#custom-transfoms)
@@ -17,7 +17,7 @@ ObjectMapper is a framework written in Swift that makes it easy for you to conve
 - [Contributing](#contributing)
 - [Installation](#installation)
 
-#Features:
+#ほげ:
 - Mapping JSON to objects
 - Mapping objects to JSON
 - Nested Objects (stand alone, in Arrays or in Dictionaries)
